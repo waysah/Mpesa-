@@ -1,2 +1,2 @@
-# Mpesa-
+# Mpesa
 Working Mpesa STK Push
